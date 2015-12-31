@@ -1,0 +1,143 @@
+[
+  {
+    "Id": 2,
+    "FriendGroupId": 1,
+    "FirstName": "Julia",
+    "LastName": "Huber",
+    "Birthday": "1982-10-10T00:00:00",
+    "IsDeveloper": false,
+    "Address": {
+      "Id": 0,
+      "City": "Müllheim",
+      "Street": "Elmstreet",
+      "StreetNumber": "12345"
+    },
+    "Emails": [
+      {
+        "Id": 0,
+        "Email": "julia@juhu-design.com",
+        "Comment": null
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "FriendGroupId": 1,
+    "FirstName": "Anna",
+    "LastName": "Huber",
+    "Birthday": "2011-05-13T00:00:00",
+    "IsDeveloper": false,
+    "Address": {
+      "Id": 0,
+      "City": "Müllheim",
+      "Street": "Elmstreet",
+      "StreetNumber": "12345"
+    },
+    "Emails": []
+  },
+  {
+    "Id": 4,
+    "FriendGroupId": 1,
+    "FirstName": "Sara",
+    "LastName": "Huber",
+    "Birthday": "2013-02-25T00:00:00",
+    "IsDeveloper": false,
+    "Address": {
+      "Id": 0,
+      "City": "Müllheim",
+      "Street": "Elmstreet",
+      "StreetNumber": "12345"
+    },
+    "Emails": [
+      {
+        "Id": 0,
+        "Email": null,
+        "Comment": null
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "FriendGroupId": 2,
+    "FirstName": "Andreas",
+    "LastName": "Böhler",
+    "Birthday": "1981-01-10T00:00:00",
+    "IsDeveloper": true,
+    "Address": {
+      "Id": 0,
+      "City": "Tiengen",
+      "Street": "Hardstreet",
+      "StreetNumber": "5"
+    },
+    "Emails": [
+      {
+        "Id": 0,
+        "Email": "andreas@strenggeheim.de",
+        "Comment": null
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "FriendGroupId": 2,
+    "FirstName": "Urs",
+    "LastName": "Meier",
+    "Birthday": "1970-03-05T00:00:00",
+    "IsDeveloper": true,
+    "Address": {
+      "Id": 0,
+      "City": "Bern",
+      "Street": "Baslerstrasse",
+      "StreetNumber": "17"
+    },
+    "Emails": [
+      {
+        "Id": 0,
+        "Email": "urs@strenggeheim.ch",
+        "Comment": null
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "FriendGroupId": 2,
+    "FirstName": "Chrissi",
+    "LastName": "Heuberger",
+    "Birthday": "1987-07-16T00:00:00",
+    "IsDeveloper": false,
+    "Address": {
+      "Id": 0,
+      "City": "Hillhome",
+      "Street": "Freiburgerstrasse",
+      "StreetNumber": "32"
+    },
+    "Emails": [
+      {
+        "Id": 0,
+        "Email": "chrissi@web.de",
+        "Comment": null
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "FriendGroupId": 2,
+    "FirstName": "Erkan",
+    "LastName": "Egin",
+    "Birthday": "1983-05-23T00:00:00",
+    "IsDeveloper": false,
+    "Address": {
+      "Id": 0,
+      "City": "Neuenburg",
+      "Street": "Rheinweg",
+      "StreetNumber": "4"
+    },
+    "Emails": [
+      {
+        "Id": 0,
+        "Email": "erko@web.de",
+        "Comment": null
+      }
+    ]
+  }
+]

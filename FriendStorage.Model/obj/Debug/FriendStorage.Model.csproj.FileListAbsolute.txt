@@ -1,0 +1,5 @@
+C:\dev\FriendStorage\FriendStorage.Model\bin\Debug\FriendStorage.Model.dll
+C:\dev\FriendStorage\FriendStorage.Model\bin\Debug\FriendStorage.Model.pdb
+C:\dev\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.csprojResolveAssemblyReference.cache
+C:\dev\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.dll
+C:\dev\FriendStorage\FriendStorage.Model\obj\Debug\FriendStorage.Model.pdb
